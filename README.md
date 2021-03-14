@@ -40,7 +40,9 @@ We recommend you start with the [information-security-policy] for a high-level i
 
 ## Registers 
 
-Tabular data are a key part of your ISMS. You'll need tables of risks, assets, mappings to standards, suppliers... the list is long.
+Tabular data are a key part of your ISMS. You'll need tables of risks, assets, mappings to standards, suppliers... the list is long. 
+
+The example here contains a sub-set of requirements from ISO27001, which are mapped to the example docs provided. 
 
 ## Traceability
 
